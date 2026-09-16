@@ -98,7 +98,7 @@ My goal is to grow as an **AI and Machine Learning Engineer** while continuously
 ## GitHub Overview
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samra-ca&theme=tokyonight&hide_border=true"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaZahra-fz&theme=tokyonight&hide_border=true"/> 
 </p>
 
 ---
@@ -107,15 +107,15 @@ My goal is to grow as an **AI and Machine Learning Engineer** while continuously
 
 <p>
 
-<a href="https://github.com/samra-ca">
+<a href="https://github.com/FatimaZahra-fz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>&nbsp;
 
-<a href="https://www.linkedin.com/in/samra-fatima-855917351/">
+<a href="https://www.linkedin.com/in/fatima-zahra-528753351/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 
-<a href="mailto:sminhas1405@gmail.com">
+<a href="mailto:fz565916@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
@@ -130,7 +130,7 @@ My goal is to grow as an **AI and Machine Learning Engineer** while continuously
 </div>
 
 <!--
-**Samra-ca/Samra-ca** is a ✨ _special_ ✨ repository because it is a profile README.
+**FatimaZahra-fz/FatimaZahra-fz** is a ✨ _special_ ✨ repository because it is a profile README.
 
 Here are some ideas to get you started:
 
